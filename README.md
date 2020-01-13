@@ -1,0 +1,2 @@
+# squidproxy-sandbox
+squidproxy
